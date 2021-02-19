@@ -54,7 +54,7 @@
       <div class="container">
          <div class="row">
             <div class="col l6 s12">
-               <h5 class="white-text">About</h5>
+               <h5 class="white-text">About Our Services</h5>
                <p class="grey-text text-lighten-4">This Web App is developped using PHP, MySQL, HTML, CSS, JS and Bootstrap (For Templates) to test our CICD Pipeline, with a potential inclusion of DevSecOps later</p>
             </div>
             <div class="col l3 s12">
