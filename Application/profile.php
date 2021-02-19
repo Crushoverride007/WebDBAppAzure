@@ -1,6 +1,6 @@
 <!--
  * File : profile.php
- * Developer : Mouhcine MESMOUKI and Omar ABDELMOUJIB
+ * Developer : Team Crushoverride007
  -->
 
 <?php
@@ -112,7 +112,7 @@ include('session.php');
         </div>
         <div class="footer-copyright">
             <div class="container">
-                Made by <a class="brown-text text-lighten-3" href="http://github.com/crushoverride007" target="blank">Mouhcine MESMOUKI and Omar ABDELMOUJIB</a>
+                Made by <a class="brown-text text-lighten-3" href="http://github.com/crushoverride007" target="blank">Team Crushoverride007</a>
             </div>
         </div>
     </footer>

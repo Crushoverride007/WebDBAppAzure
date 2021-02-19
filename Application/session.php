@@ -1,6 +1,6 @@
 <!--
  * File : session.php
- * Developer : Mouhcine MESMOUKI and Omar ADELMOUJIB
+ * Developer : Team Crushoverride007
  -->
 
 <?php

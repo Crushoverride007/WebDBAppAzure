@@ -1,6 +1,6 @@
 <!--
  * File : logout.php
- * Developer : Mouhcine MESMOUKI and Omar ABDELMOUJIB
+ * Developer : Team Crushoverride007
  -->
 
 <?php

@@ -1,6 +1,6 @@
 <!--
  * File : index.php (Home page)
- * Developer : Mouhcine MESMOUKI + Omar ABDELMOUJIB
+ * Developer : Team Crushoverride007
 -->
 
 
@@ -80,7 +80,7 @@
       </div>
       <div class="footer-copyright">
          <div class="container">
-            Made by <a class="brown-text text-lighten-3" href="http://github.com/crushoverride007" target="blank">Mouhcine MESMOUKI and </a>
+            Made by <a class="brown-text text-lighten-3" href="http://github.com/crushoverride007" target="blank">Team Crushoverride007</a>
          </div>
       </div>
    </footer>

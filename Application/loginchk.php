@@ -1,6 +1,6 @@
 <!--
  * File : loginchk.php
- * Developer : Mouhcine MESMOUKI + Omar ABDELMOUJIB
+ * Developer : Team Crushoverride007
  -->
 
 <?php
