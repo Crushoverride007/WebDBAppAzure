@@ -113,7 +113,7 @@ if(isset($_SESSION['login_user'])){
                     <ul>
                         <li><a class="white-text">Web Page Designed with php</a></li>
                         <li><a class="white-text">Dynamic web site</a></li>
-                        <li><a class="white-text">Responsive Design (Template used from qquora)</a></li>
+                        <li><a class="white-text">Responsive Design (Template used from quora)</a></li>
                         <li><a class="white-text">Built on Macintosh and ubuntu (On a virtual Machine {parralels Desktop})</a></li>
                     </ul>
                 </div>
