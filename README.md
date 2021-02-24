@@ -31,7 +31,7 @@ CREDENTIALS
 
 CREDITS TO
 
-	Mouhcine MESMOUKI and Omar ABDELMOUJIB
+	Mouhcine MESMOUKI, Omar ABDELMOUJIB, Ayman Bennani and Mouad Kechmane
 
 DEVELOPPED IN
 
