@@ -184,7 +184,8 @@
          <div class="row">
             <div class="col l6 s12">
                <h5 class="white-text">About</h5>
-               <p class="grey-text text-lighten-4">This Web Appp is developped using PHP, MySQL, HTML, CSS, JS and Bootstrap (For Templates) to test our CICD Pipeline, with a potential inclusion of DevSecOps later</p>
+               <p class="grey-text text-lighten-4">This Web Appp is developped using PHP, MySQL, HTML, CSS, JS and Bootstrap (For Templates) to test our CICD Pipeline, with a potential inclusion of DevSecOps later inclusion of test demo
+</p>
             </div>
             <div class="col l3 s12">
                <h5 class="white-text">Tech Specs</h5>
