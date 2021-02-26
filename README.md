@@ -31,11 +31,11 @@ CREDENTIALS
 
 CREDITS TO
 
-	Mouhcine MESMOUKI and Omar ABDELMOUJIB
+	Mouhcine MESMOUKI, Omar ABDELMOUJIB, Ayman BENNANI and Mouad KECHMANE
 
 DEVELOPPED IN
 
 	MacOS : 11.0.1
 	Ubuntu : 20.4
-	TeamViewer 
+	TeamViewer : 15.13.6
 	
