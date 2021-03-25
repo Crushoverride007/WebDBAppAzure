@@ -36,7 +36,7 @@
          <div class="row">
             <div class="col s12 center">
                <h3><i class="mdi-content-send brown-text"></i></h3>
-               <h4>Web App with a DATABASE</h4>
+               <h4>Web App with a DATABASE from Centos</h4>
             </div>
          </div>
       </div>

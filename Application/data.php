@@ -4,7 +4,7 @@
  -->
 
 <?php
-$link = mysqli_connect("192.168.188.140", "crushoverride007", "mouhcine", "WebDBApp");
+$link = mysqli_connect("51.178.49.186", "crushoverride007", "mouhcine", "WebDBApp");
 
 $firstname = $_POST['firstname'];
 $lastname = $_POST['lastname'];

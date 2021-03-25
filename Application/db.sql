@@ -2,7 +2,7 @@
 -- version 4.4.10
 -- http://www.phpmyadmin.net
 --
--- Host: 192.168.188.140 {not always the case}
+-- Host: 51.178.49.186 {not always the case}
 -- Server version: 5.5.42
 -- PHP Version: 7.0.8
 
