@@ -8,4 +8,6 @@
 
 // Tagged, this calls the function "tagFunction" with the template as the
 // first argument and substitution values as subsequent arguments:
+
+// must have multiple sections
 tagFunction`string text ${expression} string text`
